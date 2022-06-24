@@ -1,7 +1,7 @@
 [![MasterHead](https://d.furaffinity.net/art/fluff-kevlar/1488278723/1351965326.fluff-kevlar_starfieldgif.gif)]
 <h1 align="center">Hi 👋, I'm Vu Nguyen</h1>
 <h3 align="center">A last-year IT student from PTIT</h3>
-<img align="right" src="https://cdn.dribbble.com/users/24025/screenshots/3845535/media/5e6395af5afc49551053e74bfe4e3ad1.gif" alt="Coding" height="600" width="800"/>
+<img align="right" src="https://media3.giphy.com/media/lOJFngm24Tr0I1fAJT/giphy.gif?cid=ecf05e47q13jg19zmp3k23jfflsq8pghgcdis5hw7qkkntqk&rid=giphy.gif&ct=g" alt="Coding" height="240" width="240"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vu-blkaa&label=Profile%20views&color=0e75b6&style=flat" alt="vu-blkaa" /> </p>
